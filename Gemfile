@@ -20,6 +20,10 @@ gem 'devise'
 # to manage authorizations
 gem "pundit"
 
+
+# to attach files
+gem "carrierwave"
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
